@@ -7,3 +7,4 @@ door.log
 arduino_door_tweet/applet/*
 status.d/
 space_displayduino/applet/
+vhsapi/config.yml
